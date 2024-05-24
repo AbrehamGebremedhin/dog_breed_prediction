@@ -1,0 +1,5 @@
+/breed_prediction/config.env
+/venv/
+/static/
+/_pycache__/
+/breed_prediction//_pycache__/
